@@ -1,4 +1,4 @@
-# AsGoodAsPosh
+# therdas's powershell profile (abandoned)
 A $PROFILE script as good as OhMyPosh is, but like, way faster
 
 References and Credits
